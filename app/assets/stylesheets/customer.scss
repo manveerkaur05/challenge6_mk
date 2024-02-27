@@ -1,0 +1,31 @@
+/* app/assets/stylesheets/customers.scss */
+
+.customer {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .customer img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .customer h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .customer p {
+    margin-bottom: 5px;
+  }
+  
+  .action-links {
+    margin-top: 20px;
+  }
+  
+  .action-links a {
+    margin-right: 10px;
+  }
+  

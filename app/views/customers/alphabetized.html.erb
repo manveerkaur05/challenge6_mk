@@ -1,0 +1,4 @@
+<!-- app/views/customers/alphabetized.html.erb -->
+<% @customers.each do |customer| %>
+  <%= render partial: 'customer', locals: { customer: customer } %>
+<% end %>
